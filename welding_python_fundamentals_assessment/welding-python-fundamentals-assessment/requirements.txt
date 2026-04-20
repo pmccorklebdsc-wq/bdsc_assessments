@@ -1,0 +1,7 @@
+pillow>=10.0
+numpy>=1.24
+matplotlib>=3.7
+
+# Optional — only needed if students prefer the notebook version
+# (notebooks/assessment.ipynb). Uncomment or `pip install jupyter` separately.
+# jupyter>=1.0
